@@ -1,0 +1,22 @@
+{
+  "name": "advance-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volodymyr75/advance-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volodymyr75/advance-css/issues"
+  },
+  "homepage": "https://github.com/Volodymyr75/advance-css#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
